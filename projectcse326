@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ex.css">
+    <title>Our Experts</title>
+</head>
+<body>
+    <h1>Our Experts</h1>
+    <div class="expert">
+        <img src="https://imgs.search.brave.com/H6vwUbbr9qv3GvOUtntoHTW88g0h851NS7nIkqguvoI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzYwLzA0LzA5/LzM2MF9GXzI2MDA0/MDkwMF9vTzZZVzFz/SFRuS3hieTRHY2pD/dnR5cFVDV2puUVJn/NS5qcGc">
+        <h2>Dr. Varun Gupta</h2>
+        <p>MBBS, MD, DNB ( Gastroenterology and Hepatology ) , MNAMS</p>
+        <p>Gastroenterologist Hepatologist and Therapeutic Endoscopist</p>
+    </div>
+    <div class="expert">
+        <img src="https://imgs.search.brave.com/pMR6dOzPvPVdggS7QTnkxFm8KtlsDcVuvHCsT9F4yyM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzM3LzQ0LzAz/LzM2MF9GXzEzNzQ0/MDM3OF81bU1CTnU0/WHl4YWoyNXpEOEFn/OE5RV3NPa1lLRGVx/OC5qcGc" >
+        <h2>Dr. Kamal Sachdeva</h2>
+        <p>M.S ( SURGERY ) , DrNB Urology</p>
+        <p>Consultant Urologist & Kidney Transplant Surgeon</p>
+    </div>
+    <div class="expert">
+        <img src="https://imgs.search.brave.com/Jxf130pSXUt6vZGxoI37JZ2C2ot65Pn-EDWQ2vESBrU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzQyLzI1LzE3/LzM2MF9GXzQyMjUx/NzgzX3oyZUhQNjBV/SkFqYlJ3THpWMlJa/T0xZNlR3cVJCNzYx/LmpwZw">
+        <h2>Dr. Jasdeep Singh</h2>
+        <p>MBBS, DMRD, DNB Radiology</p>
+        <p>Consultant Radiologist</p>
+    </div>
+    <div class="expert">
+        <img src="https://imgs.search.brave.com/43Zyjb7IOrBqnWAQPvPzx10alTM14qfZ8ugVllINItc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9EQmtNV1Ux/TVdRdE4yTm1ZaTAw/T0RZM0xXSmhOalF0/TTJaaVlqWmlOVEZs/TVdVNFhrRXlYa0Zx/Y0dkZVFYVnlOamt3/T1RnNE1UQUAuanBn" >
+        <h2>Dr. Ruhi Karwal</h2>
+        <p>MBBS, DNB Radiology</p>
+        <p>Consultant Radiologist</p>
+    </div>
+    <div class="expert">
+        <img src="https://imgs.search.brave.com/L2vl7-z_q4vqLLBN0sJ1yIb2Bs7edZsJ_z9oyh27EmU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI5/MjAxNTIxNC9waG90/by9wb3J0cmFpdC1m/ZW1hbGUtZG9jdG9y/LXN0b2NrLXBob3Rv/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1ucjRYYVduUlBR/bldxd2h6YWhhalpo/c2tJREcxeUs5RG1J/dGVWNWdwVU9JPQ" >
+        <h2>Ms. Shivani Chaudhary</h2>
+        <p>M.Sc. ( Physiotheripst ) , BPT ( Lyallpur Khalsa Collage Jalandhar )</p>
+    </div>
+</body>
+</html>
